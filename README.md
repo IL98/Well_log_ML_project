@@ -12,3 +12,8 @@ notebooks:
 * well_log_time_series_feature_eng.ipynb - feature engineering of the sequential data (by depth) and training/testing RNN model
 
 Data for different wells (170, 169, 171, 183 PL) are give in the 'data/' dir
+
+Authors:
+Ilya Nachinkin  
+Ramilya Sharifullina  
+Gladchenko Elizaveta
